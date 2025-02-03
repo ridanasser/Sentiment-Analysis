@@ -35,10 +35,9 @@ This project evaluates the accuracy of different **Natural Language Processing (
    ```bash
    pip install -r requirements.txt
 
-5. Run the sentiment analysis script:
+5. Open VS Code, Run the script, and select Python Debugger.
 
-   ```bash
-   python sentiment_analysis.py
+! OR skip steps 3, 4, and 5, and open the project using [Google Colab](https://colab.research.google.com) .
 
 ## Usage
 - Train and evaluate different sentiment analysis models.
